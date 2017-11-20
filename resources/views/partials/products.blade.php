@@ -1,5 +1,5 @@
 <section class="produtos" id="produtos">
-    <h1>Produtos</h1>
+    <h1>Products</h1>
     <div class="produtos-container">
         <div class="produtos-item purple">
             <h2>Purple</h2>

@@ -1,13 +1,13 @@
 <div class="superinfo-bg">
     <div class="superinfo">
         <p>
-          Seg / Sex - 08h às 18h
+          Day / Day - Time to Time
         </p>
-        <a href="tel:+5516999999999">
-            +55 16 9 9999 - 9999
+        <a href="tel:0000000">
+            +00 00 000
         </a>
         <p>
-            Av. Tal Tal, 120, Cidade - ESTADO
+            Street Name, Number, City, State, Country
         </p>
     </div>
 </div>
@@ -21,10 +21,10 @@
         </div>
         <nav class="menu-nav">
             <ul>
-                <li><a href="#">Sobre</a></li>
-                <li><a href="#">Produtos</a></li>
-                <li><a href="#">Preço</a></li>
-                <li><a href="#">Qualidade</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Products</a></li>
+                <li><a href="#">Price</a></li>
+                <li><a href="#">Quality</a></li>
             </ul>
         </nav>
     </div>

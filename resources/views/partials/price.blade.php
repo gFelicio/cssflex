@@ -4,12 +4,12 @@
         <span><sup>R$</sup>19</span>
 
         <ul>
-            <li>Planos Ilimitados</li>
-            <li>Acesso Restrito</li>
-            <li>Conteúdo Secreto</li>
-            <li>Suporte 24h</li>
+            <li>Unlimited Plans</li>
+            <li>Restricted Access</li>
+            <li>Secret Content</li>
+            <li>24/7 Support</li>
         </ul>
-        <a href="#">Comprar</a>
+        <a href="#">Buy</a>
     </div>
 
     <div class="preco-item">
@@ -17,13 +17,13 @@
         <span><sup>R$</sup>39</span>
 
         <ul>
-            <li>Planos Ilimitados</li>
-            <li>Acesso Restrito</li>
-            <li>Conteúdo Secreto</li>
-            <li>Suporte 24h</li>
-            <li>Compra Exclusiva</li>
+            <li>Unlimited Plans</li>
+            <li>Restricted Access</li>
+            <li>Secret Content</li>
+            <li>24/7 Support</li>
+            <li>Exclusive Sales</li>
         </ul>
-        <a href="#">Comprar</a>
+        <a href="#">Buy</a>
     </div>
 
     <div class="preco-item">
@@ -31,13 +31,13 @@
         <span><sup>R$</sup>79</span>
 
         <ul>
-            <li>Planos Ilimitados</li>
-            <li>Acesso Restrito</li>
-            <li>Conteúdo Secreto</li>
-            <li>Suporte 24h</li>
-            <li>Compra Exclusiva</li>
-            <li>Download dos Itens</li>
+            <li>Unlimited Plans</li>
+            <li>Restricted Access</li>
+            <li>Secret Content</li>
+            <li>24/7 Support</li>
+            <li>Exclusive Sales</li>
+            <li>Items' Download</li>
         </ul>
-        <a href="#">Comprar</a>
+        <a href="#">Buy</a>
     </div>
 </section>

@@ -9,6 +9,6 @@
 
     <form class="newsletter-form">
         <input type="text" name="" placeholder="Seu E-Mail">
-        <button type="submit">Assinar</button>
+        <button type="submit">Sign</button>
     </form>
 </section>

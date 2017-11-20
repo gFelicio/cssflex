@@ -8,8 +8,8 @@
     @include('partials/header')
 
     <h1 class="introducao">
-        Novos valores e<br/>
-        Propriedades de CSS
+        New values and<br/>
+        CSS' Properties
     </h1>
 
     @include('partials/about')

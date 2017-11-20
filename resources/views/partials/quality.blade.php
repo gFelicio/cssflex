@@ -1,6 +1,6 @@
 <section class="qualidade" id="qualidade">
     <div class="qualidade-item">
-        <h2>Inteligente</h2>
+        <h2>Smart</h2>
         <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
             tempor incididunt ut labore et dolore magna aliqua.
@@ -8,7 +8,7 @@
     </div>
 
     <div class="qualidade-item">
-        <h2>Compacto</h2>
+        <h2>Compact</h2>
         <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
             tempor incididunt ut labore et dolore magna aliqua.
@@ -16,7 +16,7 @@
     </div>
 
     <div class="qualidade-item">
-        <h2>Econômico</h2>
+        <h2>Economic</h2>
         <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
             tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -26,7 +26,7 @@
     </div>
 
     <div class="qualidade-item">
-        <h2>Transparente</h2>
+        <h2>Transparent</h2>
         <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
             tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -36,7 +36,7 @@
     </div>
 
     <div class="qualidade-item">
-        <h2>Opaco</h2>
+        <h2>Opaque</h2>
         <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
             tempor incididunt ut labore et dolore magna aliqua.
@@ -44,7 +44,7 @@
     </div>
 
     <div class="qualidade-item">
-        <h2>Sustentável</h2>
+        <h2>Sustainable</h2>
         <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
             tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
