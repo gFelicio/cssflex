@@ -10,22 +10,23 @@
             Av. Tal Tal, 120, Cidade - ESTADO
         </p>
     </div>
-
-    <header class="menu-bg">
-        <div class="menu">
-            <div class="menu-logo">
-                <a href="#">
-                    Flex
-                </a>
-            </div>
-            <nav>
-                <ul>
-                    <li><a href="#">Sobre</a></li>
-                    <li><a href="#">Produtos</a></li>
-                    <li><a href="#">Preço</a></li>
-                    <li><a href="#">Qualidade</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
 </div>
+
+<header class="menu-bg">
+    <div class="menu">
+        <div class="menu-logo">
+            <a href="#">
+                Flex
+            </a>
+        </div>
+        <nav class="menu-nav">
+            <ul>
+                <li><a href="#">Sobre</a></li>
+                <li><a href="#">Produtos</a></li>
+                <li><a href="#">Preço</a></li>
+                <li><a href="#">Qualidade</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
