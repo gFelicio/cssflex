@@ -1,5 +1,5 @@
-<section class="sobre" id="sobre">
-    <div class="sobre-info">
+<section class="about" id="sobre">
+    <div class="about__info">
         <h1>About</h1>
         <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -14,10 +14,10 @@
         </p>
     </div>
 
-    <div class="sobre-img">
+    <div class="about__img">
         <img src="{!! asset('img/sobre1.jpg') !!}" alt="Sobre 1">
     </div>
-    <div class="sobre-img">
+    <div class="about__img">
         <img src="{!! asset('img/sobre2.jpg') !!}" alt="Sobre 2">
     </div>
 </section>

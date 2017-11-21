@@ -7,7 +7,7 @@
 @section('content')
     @include('partials/header')
 
-    <h1 class="introducao">
+    <h1 class="intro">
         New values and<br/>
         CSS' Properties
     </h1>

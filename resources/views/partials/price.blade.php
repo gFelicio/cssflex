@@ -1,5 +1,5 @@
-<section class="preco" id="preco">
-    <div class="preco-item">
+<section class="price" id="preco">
+    <div class="price__item">
         <h2>Copper</h2>
         <span><sup>$</sup>19</span>
 
@@ -12,7 +12,7 @@
         <a href="#">Buy</a>
     </div>
 
-    <div class="preco-item">
+    <div class="price__item">
         <h2>Silver</h2>
         <span><sup>$</sup>39</span>
 
@@ -26,7 +26,7 @@
         <a href="#">Buy</a>
     </div>
 
-    <div class="preco-item">
+    <div class="price__item">
         <h2>Gold</h2>
         <span><sup>$</sup>79</span>
 

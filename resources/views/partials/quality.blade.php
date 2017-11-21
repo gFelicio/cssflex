@@ -1,5 +1,5 @@
-<section class="qualidade" id="qualidade">
-    <div class="qualidade-item">
+<section class="quality" id="qualidade">
+    <div class="quality__item">
         <h2>Smart</h2>
         <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -7,7 +7,7 @@
         </p>
     </div>
 
-    <div class="qualidade-item">
+    <div class="quality__item">
         <h2>Compact</h2>
         <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -15,7 +15,7 @@
         </p>
     </div>
 
-    <div class="qualidade-item">
+    <div class="quality__item">
         <h2>Economic</h2>
         <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -25,7 +25,7 @@
         </p>
     </div>
 
-    <div class="qualidade-item">
+    <div class="quality__item">
         <h2>Transparent</h2>
         <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -35,7 +35,7 @@
         </p>
     </div>
 
-    <div class="qualidade-item">
+    <div class="quality__item">
         <h2>Opaque</h2>
         <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -43,7 +43,7 @@
         </p>
     </div>
 
-    <div class="qualidade-item">
+    <div class="quality__item">
         <h2>Sustainable</h2>
         <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

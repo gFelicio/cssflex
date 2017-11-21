@@ -1,5 +1,5 @@
 <section class="newsletter">
-    <div class="newsletter-info">
+    <div class="newsletter__info">
         <h1>Newsletter</h1>
         <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -7,7 +7,7 @@
         </p>
     </div>
 
-    <form class="newsletter-form">
+    <form class="newsletter__form">
         <input type="text" name="" placeholder="Your E-Mail">
         <button type="submit">Sign</button>
     </form>

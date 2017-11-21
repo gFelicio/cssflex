@@ -1,5 +1,5 @@
-<div class="superinfo-bg">
-    <div class="superinfo">
+<div class="info">
+    <div class="info__content">
         <p>
           Day / Day - Time to Time
         </p>
@@ -12,14 +12,14 @@
     </div>
 </div>
 
-<header class="menu-bg">
-    <div class="menu">
-        <div class="menu-logo">
+<header class="header">
+    <div class="header__content">
+        <div class="header__content--logo">
             <a href="#">
                 Flex
             </a>
         </div>
-        <nav class="menu-nav">
+        <nav class="header__content--nav">
             <ul>
                 <li><a href="#">About</a></li>
                 <li><a href="#">Products</a></li>
@@ -29,4 +29,3 @@
         </nav>
     </div>
 </header>
-
