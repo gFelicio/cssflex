@@ -1,7 +1,7 @@
 <section class="preco" id="preco">
     <div class="preco-item">
-        <h2>Cobre</h2>
-        <span><sup>R$</sup>19</span>
+        <h2>Copper</h2>
+        <span><sup>$</sup>19</span>
 
         <ul>
             <li>Unlimited Plans</li>
@@ -13,8 +13,8 @@
     </div>
 
     <div class="preco-item">
-        <h2>Prata</h2>
-        <span><sup>R$</sup>39</span>
+        <h2>Silver</h2>
+        <span><sup>$</sup>39</span>
 
         <ul>
             <li>Unlimited Plans</li>
@@ -27,8 +27,8 @@
     </div>
 
     <div class="preco-item">
-        <h2>Ouro</h2>
-        <span><sup>R$</sup>79</span>
+        <h2>Gold</h2>
+        <span><sup>$</sup>79</span>
 
         <ul>
             <li>Unlimited Plans</li>

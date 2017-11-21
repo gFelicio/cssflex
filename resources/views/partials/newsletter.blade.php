@@ -8,7 +8,7 @@
     </div>
 
     <form class="newsletter-form">
-        <input type="text" name="" placeholder="Seu E-Mail">
+        <input type="text" name="" placeholder="Your E-Mail">
         <button type="submit">Sign</button>
     </form>
 </section>
