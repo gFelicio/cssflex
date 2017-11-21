@@ -1,4 +1,4 @@
-#FLEXBLOG
+# FLEXBLOG
 
 A simple responsive webpage, created using vanilla html5 and vanilla CSS.
 
